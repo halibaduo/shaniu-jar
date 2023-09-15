@@ -5,3 +5,4 @@ java文件想成为exe文件的两步骤:
 java -jar shaniu-demo.jar
 
 命令行运行cmd下修改为utf8  ： 语句: chcp 65001
+项目还只是一个demo，后续更新完善
